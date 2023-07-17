@@ -1,0 +1,104 @@
+version: "3.1"
+
+nlu:
+- intent: i_salam
+  examples: |
+    - halo
+    - hei
+    - hai
+    - helo
+    - hello
+    - hallo
+    - hi
+    - selamat pagi
+    - selamat siang
+    - selamat sore
+    - selamat malam
+    - sampurasun
+
+- intent: i_selamat_tinggal
+  examples: |
+    - selamat tinggal
+    - dadah
+    - sampai jumpa lagi
+    - sampai bertemu kembali
+    - good bye
+    - bye
+    - cya
+    - see you
+
+- intent: i_terima_kasih
+  examples: |
+    - terima kasih
+    - terima kasih banyak
+    - makasih
+    - thank you
+    - thanks
+    - thx
+    - ty
+    - tengs
+    - hatur nuhun
+
+- intent: i_bot
+  examples: |
+    - kamu siapa
+    - siapa kamu
+    - kamu adalah
+    - kamu
+    - nama kamu siapa
+    - siapa nama kamu
+    - bot
+    - isi chatbot
+    - tentang chatbot
+    - chatbot
+    - isi bot
+
+- intent: i_layanan_sambara
+  examples: |
+    - apa saja layanan yang ada di aplikasi sambara
+    - apa saja layanan yang ada di sambara
+    - layanan apa yang ada di sambara
+
+- intent: i_diluar_topik
+  examples: |
+    - 1 + 1
+    - 2 * 0 =
+    - 3 - 5 = ?
+    - 4 / 2 = ?
+    - bagaimana cara memesan makanan?
+    - apa cuaca hari ini?
+    - bisakah anda menelpon saya?
+    - dimana restoran terdekat?
+    - apakah kita pernah bertemu?
+    - saya adalah User
+    - saya lapar
+    - dimana saya tinggal?
+    - siapa saya??
+    - anda berasal darimana?
+    - saya mencari pekerjaan
+    - berapa harga roti?
+    - tempat melamar pekerjaan?
+    - bagaimana cara meretas instagram?
+    - apakah anda bisa memperbaiki televisi?
+    - apa rekomendasi untuk makan siang?
+    - tolong putarkan sebuah lagu
+    - apa film terlaris musim ini?
+    - apa arti dari hemophobia?
+    - bagaimana cara kerja kamera?
+    - bagaimana cara menggunakan microsoft excel?
+    - dimana Inggris?
+    - apa ibukota negara Selandia Baru?
+    - seperapa besar Palembang?
+    - apa kendaraan tercepat di dunia?
+    - benarkah sudah ada mobil terbang?
+    - siapa saja yang pernah ke bulan?
+    - hewan terkecil
+    - hewan terlambat
+    - tumbuhan terbesar
+    - dfseagregr
+    - t4t3refreg
+    - @$%#(%$#_)
+    - fdslk23254##$%#@
+    - 2453342
+    - 5436457142342
+    - 123

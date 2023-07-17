@@ -1,0 +1,11 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohM744MScxt7Y2FgAhbRxE": "utter_salam",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohM744MScxt5aAKaUlJalFUKW4zYgFABXsNgw=": "action_listen",
+    "eJydjkEKwCAMBL+SB/QFfqWUENocQjWKxl7Ev1eod6G3HRiG3VvfoKXMD9JpEtVB+wYqBXYwwUsx1uHWwnk4ogPNgWAhT6EvKtWM81T/NpZPLvGVMlpMcvd+vMSzU5g=": "utter_diluar_topik",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohM744MScxt5aAKaUlJalFUKXkmkHQJSmZOaWJRfEl+QWZ2cQ5CEUHQRNjAZ4Sc1I=": "action_listen",
+    "eJydjlEKgCAQBa+yB+gEXiVCXrEfC7qFrkGId0/If6G/NzAMb61toXolvj0Ok1Md1W94RWRHA4JkY+1uyZy6I9rRHInPCIhtUilmnIb6tzF9EvBAob0WdyS0tr3AXVSr": "utter_layanan_sambara",
+    "eJydjlEKgCAQRK/iATqBV4mQKfZD0C3WNQjx7gn51Y/R3wy8ecxc6mTKIXQ6bOp3tqY8wTEiWdNL8EmJG5sTSWM8t6rWeJcQEOvAklVJOvrXMXwScIHBzRZXCL59eo++eJcbr1R2iw==": "action_listen"
+  }
+}

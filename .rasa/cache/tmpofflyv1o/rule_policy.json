@@ -1,0 +1,30 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_layanan_sambara\"}}]": "utter_layanan_sambara",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_layanan_sambara\"}}, {\"prev_action\": {\"action_name\": \"utter_layanan_sambara\"}, \"user\": {\"intent\": \"i_layanan_sambara\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_salam\"}}]": "utter_salam",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_salam\"}}, {\"prev_action\": {\"action_name\": \"utter_salam\"}, \"user\": {\"intent\": \"i_salam\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_selamat_tinggal\"}}]": "utter_selamat_tinggal",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_selamat_tinggal\"}}, {\"prev_action\": {\"action_name\": \"utter_selamat_tinggal\"}, \"user\": {\"intent\": \"i_selamat_tinggal\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_diluar_topik\"}}]": "utter_diluar_topik",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_diluar_topik\"}}, {\"prev_action\": {\"action_name\": \"utter_diluar_topik\"}, \"user\": {\"intent\": \"i_diluar_topik\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {},
+    "rules_not_in_stories": [
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_layanan_sambara\"}}, {\"prev_action\": {\"action_name\": \"utter_layanan_sambara\"}, \"user\": {\"intent\": \"i_layanan_sambara\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_selamat_tinggal\"}}, {\"prev_action\": {\"action_name\": \"utter_selamat_tinggal\"}, \"user\": {\"intent\": \"i_selamat_tinggal\"}}]",
+      "predicting default action with intent session_start",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_salam\"}}, {\"prev_action\": {\"action_name\": \"utter_salam\"}, \"user\": {\"intent\": \"i_salam\"}}]",
+      "predicting default action with intent restart",
+      "predicting default action with intent back",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_layanan_sambara\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_diluar_topik\"}}, {\"prev_action\": {\"action_name\": \"utter_diluar_topik\"}, \"user\": {\"intent\": \"i_diluar_topik\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_diluar_topik\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_selamat_tinggal\"}}]",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"i_salam\"}}]"
+    ]
+  }
+}

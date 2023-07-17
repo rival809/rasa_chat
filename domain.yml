@@ -1,0 +1,29 @@
+version: "3.1"
+
+intents:
+  - i_salam
+  - i_selamat_tinggal
+  - i_terima_kasih
+  - i_bot
+  - i_layanan_sambara
+  - i_diluar_topik
+
+responses:
+  utter_salam:
+  - text: "Sampurasun, Warga Jabar!"
+
+  utter_selamat_tinggal:
+  - text: "Bye"
+
+  utter_layanan_sambara:
+  - text: "Melalui Sambara, Anda dapat menikmati beragam kemudahan seperti:
+          1. Cek Info Pajak Kendaraan Bermotor–lihat informasi terkait pajak kendaraan bermotor yang dimiliki berdasarkan informasi yang sesuai dengan KTP anda.
+          2. Pembayaran Pajak Kendaraan Bermotor–pembayaran pajak kendaraan bermotor kini lebih praktis dan mudah melalui aplikasi yang dilengkapi berbagai metode pembayaran.
+          3. Lepas Kepemilikan Kendaraan Bermotor–lepas kepemilikan kendaraan bermotor yang sudah berpindah tangan dengan praktis dan mudah melalui aplikasi"
+
+  utter_diluar_topik:
+  - text: "Maaf, pertanyaan anda diluar topik, mohon beri saya pertanyaan mengenai Aplikasi Sambara!"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
