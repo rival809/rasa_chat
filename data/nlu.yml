@@ -34,10 +34,9 @@ nlu:
     - makasih
     - thank you
     - thanks
-    - thx
-    - ty
     - tengs
     - hatur nuhun
+    - nuhun
 
 - intent: i_bot
   examples: |
@@ -97,6 +96,17 @@ nlu:
     - tumbuhan terbesar
     - dfseagregr
     - t4t3refreg
+    - jkjof
+    - qwrq
+    - hhoaisdh
+    - insaf
+    - opashnlasf
+    - ewraskjfb
+    - sadkjasfkjg
+    - 123jkg
+    - jkh1wdiug
+    - asd
+    - hjksad
     - @$%#(%$#_)
     - fdslk23254##$%#@
     - 2453342

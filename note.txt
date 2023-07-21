@@ -1,0 +1,2 @@
+conda activate rasa_ai
+rasa run -i 10.44.121.78
